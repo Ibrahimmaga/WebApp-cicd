@@ -5,4 +5,8 @@
     <RootNamespace>WebApp_cicd</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="images\" />
+  </ItemGroup>
+
 </Project>
